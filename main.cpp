@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    int i, k, j, vaule;
-    int rows;
+    int i, k, j, vaule, rows;
 
     cin >> rows;
     for(i = 0; i < rows; i++)
